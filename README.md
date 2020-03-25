@@ -1,5 +1,5 @@
 # Be the Hero 
-<img src="imagem/omnistack-wallpaper.png" width= 50% height=50%></a>
+<img src="imagem/omnistack-wallpaper.png" width= 100% height=100%></a>
 
 ## Dias 23, 24, 25, 26 e 27 de Março de 2020 
 ## Haverá a Semana OmniStack 11° Edição
@@ -16,6 +16,7 @@ O site se chamarar <b>Be the Hero</b>, ela foi pensado para popularizar doaçõe
 ## <b>Abaixo são as tecnologias utilizadas no desenvolvimento da aplicação</b>
 
 ### Dia 23
+<hr>
 
 * [Node.js](https://nodejs.org/en/)
 * [NPM](https://docs.npmjs.com/about-npm/)
@@ -24,6 +25,7 @@ O site se chamarar <b>Be the Hero</b>, ela foi pensado para popularizar doaçõe
 * [Expo (Framework)](https://expo.io/)
 
 ### Dia 24
+<hr>
 
 * [Express (Framework)](https://expressjs.com/pt-br/)
 * [Nodemon (Framework)](https://nodemon.io/)
@@ -34,14 +36,17 @@ O site se chamarar <b>Be the Hero</b>, ela foi pensado para popularizar doaçõe
 * [Crypto (Framework)](https://nodejs.org/api/crypto.html)
 
 ### Dia 25
+<hr>
 
 * Em Manutenção
 
 ### Dia 26
+<hr>
 
 * Em Manutenção
 
 ### Dia 27
+<hr>
 
 * Em Manutenção
 

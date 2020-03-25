@@ -2,7 +2,7 @@
 <img src="imagem/omnistack-wallpaper.png" width= 100% height=100%></a>
 
 ## Dias 23, 24, 25, 26 e 27 de Março de 2020 
-## Haverá a Semana OmniStack 11° Edição
+## Semana OmniStack 11° Edição
 
 Cada dia terá uma aula exclusivas pela equipe da [Rocketseat](https://rocketseat.com.br), para utilizar as tecnologias mais modernas do mercado
 <hr>

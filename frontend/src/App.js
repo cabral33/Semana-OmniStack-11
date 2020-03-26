@@ -1,13 +1,10 @@
 import React from 'react';
-import './App.css';
+import './global.css'
+import Routes from './routes'
 
 function App() {
   return (
-    <div className= 'classe'>
-      <p>
-        <a className="link" href= 'https://www.github.com' target="_blank">Site para o meu github</a>
-      </p>
-    </div>
+    <Routes />
   );
 }
 

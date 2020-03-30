@@ -1,4 +1,7 @@
-<img src="imagem/logo@3x.png"  width="500px" ></a>
+<p align="center" >
+<img src="imagem/logo@3x.png"  width="250px" ></a>
+</p>
+
 <hr>
 O site/mobile se Chamam <b>Be the Hero</b>, foi pensado para popularizar as doações para ONGs.
 

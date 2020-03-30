@@ -1,52 +1,38 @@
-# Be the Hero 
-<img src="imagem/omnistack-wallpaper.png" width= 100% height=100%></a>
-
-## Dias 23, 24, 25, 26 e 27 de Março de 2020 
-## Semana OmniStack 11° Edição
-
-Cada dia terá uma aula exclusivas pela equipe da [Rocketseat](https://rocketseat.com.br), para utilizar as tecnologias mais modernas do mercado
+<img src="imagem/logo@3x.png"  width="250px" ></a>
 <hr>
+O site/mobile se Chamam <b>Be the Hero</b>, foi pensado para popularizar as doações para ONGs.
 
-O objetivo do curso é dominar tanto o Back-End, Front-End e Mobile
+### :thinking: De onde veio a ideia? 
 
-E utilizando somente uma Linguagem [JavaScript](https://www.w3schools.com/js/)
+* Projeto veio da semana <b>OmniStack 11°</b> visando desenvolver o melhor das Stacks(ReactJs, NodeJs, React-Native) durante uma semana intensa de estudos e muita dedicação.
 
-O site se chamarar <b>Be the Hero</b>, ela foi pensado para popularizar doações para ONGs.
+### :rocket: <b>Abaixo são as tecnologias usadas :rocket:</b>
 
-## <b>Abaixo são as tecnologias utilizadas no desenvolvimento da aplicação</b>
-
-### Dia 23
-<hr>
-
-* [Node.js](https://nodejs.org/en/)
-* [NPM](https://docs.npmjs.com/about-npm/)
+### :computer: Front-end
 * [React](https://pt-br.reactjs.org/)
-* [React Native](https://reactnative.dev/)
-* [Expo (Framework)](https://expo.io/)
+* [JavaScript](https://www.w3schools.com/js/)
+* [npm](https://www.npmjs.com/)
 
-### Dia 24
-<hr>
-
-* [Express (Framework)](https://expressjs.com/pt-br/)
-* [Nodemon (Framework)](https://nodemon.io/)
-* [Insomnia (Framework)](https://insomnia.rest/)
+### :computer: Back-end
+* [Node.js](https://nodejs.org/en/)
 * [SQLite](https://www.sqlite.org/index.html)
-* [Cors (Framework)](https://www.npmjs.com/package/cors)
-* [Knex (FrameWork)](http://knexjs.org/)
-* [Crypto (Framework)](https://nodejs.org/api/crypto.html)
+* [Insomnia](https://insomnia.rest/)
 
-### Dia 25
-<hr>
+### :iphone: Mobile
+* [React-Native](https://reactnative.dev/)
+* [Expo](https://expo.io/)
 
-* Em Manutenção
+### :wrench: FrameWorks
+* [Express](https://expressjs.com/pt-br/)
+* [Nodemon](https://nodemon.io/)
+* [Cors](https://www.npmjs.com/package/cors)
+* [Knex](http://knexjs.org/)
+* [Crypto](https://nodejs.org/api/crypto.html)
+* [Axios](https://www.npmjs.com/package/axios)
+* [Celebrate](https://www.npmjs.com/package/celebrate)
 
-### Dia 26
-<hr>
+### :memo: Testes
+* [Supertest](https://www.npmjs.com/package/supertest)
 
-* Em Manutenção
 
-### Dia 27
-<hr>
-
-* Em Manutenção
 
